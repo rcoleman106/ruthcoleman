@@ -880,17 +880,4 @@ h2{
 @media (max-width: 760px) {
   .align-page .mood-grid { grid-template-columns: repeat(2, 1fr); }
 }
-.video-embed {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-}
-.video-embed iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
 
